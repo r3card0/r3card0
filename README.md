@@ -5,7 +5,7 @@ Welcome to my page!
 I'm Ricardo, Geoscientist from 🇲🇽 Mérida, México
 * 🌱 I’m currently learning about Data Science and Machine Learning
 
-* ❤️‍🔥 I really enjoy to learn new things and technologies as you can see on current student profile: [Ricardo-Platzi](https://platzi.com/p/rrsaldivar/)
+* ❤️‍🔥 I really enjoy to learn new things and technologies as you can see on my student profile: [Ricardo-Platzi](https://platzi.com/p/rrsaldivar/)
 <!--
 **r3card0/r3card0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
