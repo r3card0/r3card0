@@ -13,7 +13,7 @@ I'm Ricardo, Geoscientist from 🇲🇽 Mérida, México
 ![image](https://img.shields.io/badge/Jupyter-cc5500?style=for-the-badge&logo=jupyter&logoColor=white) ![image](https://img.shields.io/badge/Python-2a52be?style=for-the-badge&logo=python&logoColor=yellow)
 ![image](https://img.shields.io/badge/Oracle-e7feff?style=for-the-badge&logo=oracle&logoColor=red) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
-#### Data Manipulation
+### Data Manipulation
 ---
 
 ![image](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![image](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
