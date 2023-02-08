@@ -16,7 +16,7 @@ I'm Ricardo, Geoscientist from 🇲🇽 Mérida, México
 ### Data Manipulation
 ---
 
-![image](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![image](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![image](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google-sheets](https://img.shields.io/badge/Google%20Sheets-a4c639?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ### Data Visualization
 ----
