@@ -2,25 +2,42 @@
 
 Welcome to my page!
 
-I'm Ricardo, Geoscientist from 🇲🇽 Mérida, México
-* 📈 I’m currently learning about Data Science and Machine Learning
+I'm Ricardo, a Geoscientist & Data Specialist with over 15 years of experience. 
 
-* ❤️‍🔥 I really enjoy to learn new things and technologies as you can see on my student profile: [Tech](https://platzi.com/p/rrsaldivar/)
+* 📈 I’m currently working on Location Intelligence domain by supporting teams worldwide.
 
-### 👨🏻‍💻 Some technologies I use on my daily work:
+* 🤖 I'm looking for collaborate and expand my knowledge in Machine Learning area
+
+* ❤️‍🔥 I'm passionate about continuous learning, consistently expanding my knowledge of new technologies and tools. This commitment is reflected in my professional development credentials wich you can view here: [Tech](https://platzi.com/p/rrsaldivar/)
+
+* 🔍 Curious about my work? My portfolio is the perfect place to start: [Portfolio](https://r3card0.github.io/portfolio/)
+
+### 👨🏻‍💻 My current tech stack:
+
+### Programming Languages 🐍
 -----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 
-![image](https://img.shields.io/badge/Jupyter-cc5500?style=for-the-badge&logo=jupyter&logoColor=white) ![image](https://img.shields.io/badge/Python-2a52be?style=for-the-badge&logo=python&logoColor=yellow)
-![image](https://img.shields.io/badge/Oracle-e7feff?style=for-the-badge&logo=oracle&logoColor=red) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+### Databases 🐬
+-----
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
-### Data Manipulation
----
-
+### Data Science / Visualization 📊
+-----
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![image](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google-sheets](https://img.shields.io/badge/Google%20Sheets-a4c639?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### Data Visualization
-----
-![image](https://img.shields.io/badge/Tableau-89cff0?style=for-the-badge&logo=tableau&logoColor=white)
+### ETL / GIS 🗺
+-----
+![FME](https://img.shields.io/badge/FME-FF6F00?style=for-the-badge&logo=FME&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-3CB371?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 <!--### 📈 My current stats:-->
