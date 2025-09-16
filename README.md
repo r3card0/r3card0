@@ -26,13 +26,13 @@ I'm Ricardo, a Geoscientist & Data Specialist with over 15 years of experience.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
-### Data Science / Visualization 📊
+### Data Science | Visualization 📊
 -----
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![image](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google-sheets](https://img.shields.io/badge/Google%20Sheets-a4c639?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### ETL / GIS 🗺
+### ETL | GIS 🗺
 -----
 ![FME](https://img.shields.io/badge/FME-FF6F00?style=for-the-badge&logo=FME&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
