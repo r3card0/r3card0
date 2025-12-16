@@ -30,7 +30,7 @@ I'm Ricardo, a Geoscientist & Data Specialist with over 15 years of experience.
 ### Data Science 📈 | Visualization 📊
 -----
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![image](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google-sheets](https://img.shields.io/badge/Google%20Sheets-a4c639?style=for-the-badge&logo=google-sheets&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![Numpy](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![MExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google-sheets](https://img.shields.io/badge/Google%20Sheets-a4c639?style=for-the-badge&logo=google-sheets&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### ETL ⚙️
 -----
