@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my page!
+**Welcome to my page!**
 
 I'm Ricardo, a Geoscientist & Data Specialist with over 15 years of experience. 
 
@@ -12,35 +12,32 @@ I'm Ricardo, a Geoscientist & Data Specialist with over 15 years of experience.
 
 * 🔍 Curious about my work? My portfolio is the perfect place to start: [Portfolio](https://r3card0.github.io/portfolio/)
 
-### 👨🏻‍💻 My current tech stack:
+## 🧠 Domains
+### 🌍 Spatial Analysis
+Geospatial data processing, spatial queries, geometry validation, and preparation of datasets for analysis and mapping.
 
-### Programming Languages 🐍
------
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🧩 Data Modeling
+Design of analytical data models to represent historical drilling events and relate them to current project activities, enabling temporal analysis, consistency, and traceability.
 
+### 🔄 ETL Development
+Design and automation of data extraction, transformation, and loading pipelines from databases, APIs, and files into analysis-ready datasets.
 
-### Databases 🐘
------
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+### 📊 Data Visualization
+Design and development of dashboards and visual analytics for drilling, geospatial, and general data topics, focused on clarity, insights, and decision support.
 
-### Data Science 📈 | Visualization 📊
------
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-fbec5d?style=for-the-badge&logo=pandas&logoColor=blue) ![Numpy](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=blue) ![MExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google-sheets](https://img.shields.io/badge/Google%20Sheets-a4c639?style=for-the-badge&logo=google-sheets&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 🛢️ Drilling Data Analysis
+Preparation, integration, and analysis of drilling-related datasets, combining spatial and non-spatial information to support interpretation and reporting.
+### 📈 Data Science
+Exploratory data analysis and data manipulation using notebooks, statistical libraries, and tabular data tools to support analytical workflows.
 
-### ETL ⚙️
------
-![FME](https://img.shields.io/badge/FME-FF6F00?style=for-the-badge&logo=FME&logoColor=white)
+### 👨🏻‍💻 Core tech stack:
 
-
-### GIS 🗺
------
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-3CB371?style=for-the-badge&logo=python&logoColor=white)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+- **Geospatial:** ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A), ![Shapely](https://img.shields.io/badge/Shapely-2C3E50), ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
+- **Databases:** ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white),![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?logo=amazonaws&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **ETL & Automation:** ![FME](https://img.shields.io/badge/FME-0078D4), ![APIs](https://img.shields.io/badge/APIs-000000)
+- **Data Visualization:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white), ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+- **Data Science:** ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white), ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white), ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white), ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
 
 ---
